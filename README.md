@@ -1,7 +1,7 @@
 
 ## ETH_AVAX_MODULE_2_PROJECT
 
-### Interact with your SmartContract through Front-end 
+### Interact with your SmartContract through Front-end Application
 
 
 ## Description
