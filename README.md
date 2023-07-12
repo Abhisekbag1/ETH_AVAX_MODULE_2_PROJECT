@@ -9,8 +9,6 @@
 For this project, create a simple contract with 2-3 functions. Then show the values of those functions in frontend of the application.
 The files index.js, MySmartContract.sol, and deploy.js contain codes to practice interaction with the SmartContract_with_Front_end_interaction smart contract through a website.
 
-## NOTE: 
-Deploy.js file contains the code of frontend.
 
 ## Prerequisites
 
